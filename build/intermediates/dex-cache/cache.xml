@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\FragmentProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\AndroidStudioProjects\FragmentProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_861627f30a38bff4d0daf17cfd186bbbd814641f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\FragmentProject\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="D:\AndroidStudioProjects\FragmentProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.0.1_b6d18bcdb667b2d6813e3d1e125a8ed135861a09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\FragmentProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\AndroidStudioProjects\FragmentProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_d08d422c7ad2f5eec9764ce733c098b0f6e6b143\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aye\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\AndroidStudioProjects\FragmentProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_cff43eac25b466c4ef7e03c92f9813a0ef691b34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\FragmentProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="642a9628097b8e2959f9975db8225e9b0409b971">
+        <dex dex="D:\AndroidStudioProjects\FragmentProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_33f3f21ce72e853c04c0c89982dc12c4dcd0a080\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\FragmentProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dd46cc2aa4a2d190965070153cbaac542d2d6a88">
+        <dex dex="D:\AndroidStudioProjects\FragmentProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8502b951ebe27761c744e11e5cc31b747837847e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\FragmentProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\AndroidStudioProjects\FragmentProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_2965ac13e616bc8e1275f91f4732c1a610678acf\classes.dex" />
+    </item>
+
+</items>
